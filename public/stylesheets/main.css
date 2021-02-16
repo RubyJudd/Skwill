@@ -1,0 +1,64 @@
+html, body, a {
+  overflow-x: hidden;
+  font-family: Rajdhani;
+  font-weight: 300;
+  text-transform: uppercase;
+  color: white;
+  background-color: black;
+  letter-spacing: 0.2rem;
+}
+
+.landingrow {
+	display: flex;
+	flex-direction: column;
+    justify-content: center;
+	margin: 5rem;
+	padding: 5rem;
+    font-size: 2rem;
+}
+
+.landing {
+	margin: 1rem;
+}
+
+@media (max-width: 576px) {
+	.landingrow {
+		padding: 0rem !important;
+		margin-right: 2rem !important; 
+        margin-left: 2rem !important; 
+	}
+}
+
+/* photography page */
+
+.homeButton {
+	font-size: 1.5rem;
+}
+
+.navbar {
+	background-color: black;
+}
+
+
+.img-fluid {
+    /* border: 3rem solid white; */
+	margin-top: 10rem;
+	/* height: 70vh; */
+	/* position: relative; */
+}
+
+
+
+
+
+
+
+
+
+		
+
+
+
+
+
+
