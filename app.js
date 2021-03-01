@@ -40,8 +40,8 @@ app.get("/shortstories", function(req, res){
 		res.render("shortstories");
 });
 
-app.get("/pastclients", function(req, res){	
-		res.render("pastclients");
+app.get("/projects", function(req, res){	
+		res.render("projects");
 });
 
 var port = process.env.PORT || 3000;

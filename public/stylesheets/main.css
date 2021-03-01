@@ -47,6 +47,28 @@ html, body, a {
 	/* position: relative; */
 }
 
+/* projects page*/
+hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid white;
+    margin: 1em 0;
+    padding: 0;
+}
+
+.dashed {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px dashed white;
+    margin: 1em 0;
+    padding: 0;
+}
+
+.col {
+	border-top-color: white;
+}
 
 
 
