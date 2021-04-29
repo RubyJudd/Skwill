@@ -18,6 +18,11 @@
     font-size: 2rem;
 }
 
+/* @media (max-device-width : 992px) {
+	.landingrow {
+	font-size: 1.5rem;}
+} */
+
 .landing {
 	margin: 1rem;
 }
